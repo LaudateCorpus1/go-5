@@ -30,9 +30,6 @@ require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jarcoal/httpmock v0.0.0-20161210151336-4442edb3db31
 	github.com/jmoiron/sqlx v1.2.0
-	github.com/klauspost/compress v0.0.0-20161106143436-e3b7981a12dd // indirect
-	github.com/klauspost/cpuid v0.0.0-20160302075316-09cded8978dc // indirect
-	github.com/klauspost/crc32 v0.0.0-20161016154125-cb6bfca970f6 // indirect
 	github.com/lib/pq v1.2.0
 	github.com/magiconair/properties v1.5.4 // indirect
 	github.com/manucorporat/sse v0.0.0-20160126180136-ee05b128a739
@@ -64,8 +61,7 @@ require (
 	github.com/stellar/throttled v2.2.3-0.20190823235211-89d75816f59d+incompatible
 	github.com/stretchr/testify v1.6.1
 	github.com/tyler-smith/go-bip39 v0.0.0-20180618194314-52158e4697b8
-	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v0.0.0-20170109085056-0a7f0a797cd6 // indirect
+	github.com/valyala/fasthttp v1.34.0 // indirect
 	github.com/xdrpp/goxdr v0.1.0
 	github.com/xeipuuv/gojsonpointer v0.0.0-20151027082146-e0fe6f683076 // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20150808065054-e02fc20de94c // indirect
@@ -75,8 +71,6 @@ require (
 	github.com/yudai/golcs v0.0.0-20150405163532-d1c525dea8ce // indirect
 	github.com/yudai/pp v2.0.1+incompatible // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	google.golang.org/api v0.50.0
 	gopkg.in/gavv/httpexpect.v1 v1.0.0-20170111145843-40724cf1e4a0
 	gopkg.in/gorp.v1 v1.7.1 // indirect
